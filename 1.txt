@@ -3,3 +3,6 @@ Second commit in 1.txt
 third commit in 1.txt
 4
 5
+
+
+adding this line only from master
